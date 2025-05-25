@@ -331,7 +331,7 @@ User's preferred language: ${l}
 User's name: ${a.name||"Unknown"}
 User's details: ${a.details||"No additional details provided"}
 
-Available features:
+Available functions:
 - Create tasks: ${s.enableTasks?"Yes":"No"}
 - Create notes: ${s.enableNotes?"Yes":"No"}
 - Send reminders: ${s.enableReminders?"Yes":"No"}
